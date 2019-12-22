@@ -19,7 +19,7 @@ namespace PatSamRESTAPI.Controllers
             _context = context;
         }
 
-        // GET: api/employees
+        // GET: api/employee
         [HttpGet]
         public async Task<IActionResult> GetEmployee()
         {
@@ -30,7 +30,7 @@ namespace PatSamRESTAPI.Controllers
             return await Task.FromResult(new JsonResult(employee));
         }
 
-        // GET: api/employees/5
+        // GET: api/employee/5
         [HttpGet("{id:int}")]
         public async Task<IActionResult> GetEmployee(int id)
         {
@@ -73,8 +73,8 @@ namespace PatSamRESTAPI.Controllers
 
             return await Task.FromResult(new JsonResult(employee));
         }
-        
-        // POST: api/employees
+
+        // POST: api/employee
         [HttpPost]
         public async Task<IActionResult> PostEmployee(Employee employee)
         {
@@ -83,7 +83,7 @@ namespace PatSamRESTAPI.Controllers
             return await Task.FromResult(new OkObjectResult($"Successfully created employee {employee.Id}."));
         }
 
-        // DELETE: api/employees/5
+        // DELETE: api/employee/5
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> DeleteEmployee(int id)
         {
@@ -99,7 +99,7 @@ namespace PatSamRESTAPI.Controllers
             var statusCode = result > 0 ? 200 : 500;
             return await Task.FromResult(new StatusCodeResult(statusCode));
         }
-        
+
         private bool EmployeeExists(int id)
         {
             return _context.Employee.Any(e => e.Id == id);

@@ -1,0 +1,15 @@
+C:\Users\psam0403\source\repos\PatSamRESTAPI\bin\Release\netcoreapp2.1\PatSamRESTAPI.deps.json
+C:\Users\psam0403\source\repos\PatSamRESTAPI\bin\Release\netcoreapp2.1\PatSamRESTAPI.runtimeconfig.json
+C:\Users\psam0403\source\repos\PatSamRESTAPI\bin\Release\netcoreapp2.1\PatSamRESTAPI.runtimeconfig.dev.json
+C:\Users\psam0403\source\repos\PatSamRESTAPI\bin\Release\netcoreapp2.1\PatSamRESTAPI.dll
+C:\Users\psam0403\source\repos\PatSamRESTAPI\bin\Release\netcoreapp2.1\PatSamRESTAPI.pdb
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.csprojAssemblyReference.cache
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.csproj.CoreCompileInputs.cache
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.RazorAssemblyInfo.cache
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.RazorAssemblyInfo.cs
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.AssemblyInfoInputs.cache
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.AssemblyInfo.cs
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.RazorTargetAssemblyInfo.cache
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.dll
+C:\Users\psam0403\source\repos\PatSamRESTAPI\obj\Release\netcoreapp2.1\PatSamRESTAPI.pdb
